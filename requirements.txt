@@ -7,6 +7,9 @@ certifi==2021.5.30
 chardet==4.0.0
 idna==3.2
 multidict==5.1.0
+pyngrok==5.1.0
+python-dotenv==0.19.0
 pytz==2021.1
+PyYAML==5.4.1
 typing-extensions==3.10.0.0
 yarl==1.6.3
